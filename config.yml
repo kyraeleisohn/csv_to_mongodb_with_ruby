@@ -1,0 +1,9 @@
+mongo:
+  database: test_database
+  collection: audcad
+  username: myuser
+  password: mypass
+  host: 127.0.0.1:27017
+csv:
+  file: AUDCAD.csv
+  has_header: true
